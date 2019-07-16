@@ -1,0 +1,60 @@
+/* <!-- (credit) Here is the original code from:https://github.com/codemunkee/portfolio --> */
+
+.logo {
+    font-family: "Libre Barcode 39 Text", cursive;
+    font-size: 6em;
+}
+
+.name {
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: right;
+    font-weight: 100;
+}
+
+.name-title {
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: right;
+    font-weight: 200;
+}
+
+#jumbo {
+    padding: 0;
+    max-width: 1200px;
+    background-color: white;
+}
+
+.main-image {
+    border-radius: 2%;
+}
+
+.featured {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.featured-title {
+    font-size: 1.5em;
+    color: dimgray;
+}
+
+.feature-lan {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.feature-name {
+    text-transform: uppercase;
+}
+
+.feature-image {
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 5%;
+}
+
+.feature-link {
+    color: dimgray;
+    font-size: 15px;
+}

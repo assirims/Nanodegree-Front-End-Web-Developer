@@ -1,0 +1,23 @@
+/* add your CSS here */
+
+#interesting-fact.animal-info {
+  font-style: italic;
+}
+
+li span {
+  font-weight: bold;
+}
+
+li {
+  list-style: none;
+}
+
+#container {
+  border: 1px solid lightgray;
+  padding: 10px;
+}
+
+#card {
+  border: 1px solid lightgray;
+  padding: 5px;
+}
